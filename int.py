@@ -1,0 +1,5 @@
+print(int(1))
+print(int(0x9))
+print(int(0b1))
+print(int(7.8))
+print(int())
